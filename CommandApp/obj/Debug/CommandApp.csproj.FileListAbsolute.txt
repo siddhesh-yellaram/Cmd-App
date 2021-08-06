@@ -1,0 +1,7 @@
+D:\test\ADO .NET\CommandApp\bin\Debug\CommandApp.exe.config
+D:\test\ADO .NET\CommandApp\bin\Debug\CommandApp.exe
+D:\test\ADO .NET\CommandApp\bin\Debug\CommandApp.pdb
+D:\test\ADO .NET\CommandApp\obj\Debug\CommandApp.csproj.AssemblyReference.cache
+D:\test\ADO .NET\CommandApp\obj\Debug\CommandApp.csproj.CoreCompileInputs.cache
+D:\test\ADO .NET\CommandApp\obj\Debug\CommandApp.exe
+D:\test\ADO .NET\CommandApp\obj\Debug\CommandApp.pdb
